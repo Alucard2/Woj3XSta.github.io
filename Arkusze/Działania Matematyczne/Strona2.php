@@ -11,7 +11,7 @@
     <title>Potęgowanie</title>
     <meta http-equiv="X-UE-Compatible" content="IE=edge,chrome=1"/> 
     <meta http-equiv="Content-Type" content="text/html"/>
-    <link rel="stylesheet" href="Style.css" type="text/css"/>
+    <link rel="stylesheet" href="Style.css" type="text/css"
     <link href="https://fonts.googleapis.com/css?family=Rubik:400,700&display=swap&subset=latin-ext" rel="stylesheet"/>
     
 </head>
