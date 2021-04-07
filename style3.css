@@ -3,7 +3,7 @@ body
     background-image: url("tlo.jpg");
     font-family: "Lato", sans-serif;
     background-repeat: no-repeat;
-    background-size: auto
+    background-size: auto;
 }
 
 @keyframes example 
