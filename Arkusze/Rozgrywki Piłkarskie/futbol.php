@@ -16,6 +16,27 @@
 </head>
 
 <body>
+    
+    <div id="banner1">
+        <h2>Światowe Rozgrywki Piłkarskie</h2>
+        <img src="obraz1.jpg" alt="Boisko"/>
+    </div>
+
+    <div id="mecze">
+    </div>
+
+    <div id="main">
+        <h2>Reprezentacja Polski</h2>
+    </div>
+
+    <div id="lewy">
+        <p>Podaj Pozycję Zawodników: (1 - Bramkarze, 2 - Obrońcy, 3 - Pomocnicy, 4 - Napastnicy)</p>
+    </div>
+
+    <div id="prawy">
+        <img src="obraz1.png" alt="Piłkarz"/>
+        <p>Autor: 02200000000</p>
+    </div>
 
 </body>
 
