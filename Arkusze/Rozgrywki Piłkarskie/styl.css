@@ -1,0 +1,48 @@
+body
+{
+    font-family: Tahoma, sans-serif;
+    background-color: Crimson;
+}
+
+#banner1
+{
+    color: #FFFFFF;
+    text-align: center;
+    height: 370px;
+}
+
+#mecze
+{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#main
+{
+    background-color: WhiteSmoke;
+    height: 50px;
+}
+
+#lewy
+{
+    background-color: WhiteSmoke;
+    width: 70%;
+    height: 230px;
+    float: left;
+}
+
+#prawy
+{
+    background-color: WhiteSmoke;
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    float: left;
+}
+
+h2
+{
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+}
