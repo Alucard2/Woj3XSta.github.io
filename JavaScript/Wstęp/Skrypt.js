@@ -1,1 +1,1 @@
-document.write("Witaj Świecie III")
+document.write("Witaj Świecie III"
