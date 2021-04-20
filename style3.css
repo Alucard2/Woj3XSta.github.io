@@ -2,7 +2,7 @@ body
 {
     background-image: url("tlo.jpg");
     font-family: "Lato", sans-serif;
-    background-size: auto;
+    background-size: cover;
 }
 
 @keyframes example 
