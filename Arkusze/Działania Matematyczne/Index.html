@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="UTF-8"/>
-    <meta name="description" content="Portal poświęcony rozwiązywaniu wszelakich działań matematycznych. Wejdź i sam przetestuj!"
+    <meta name="description" content="Portal poświęcony rozwiązywaniu wszelakich działań matematycznych. Wejdź i sam przetestuj!"/>
     <meta name="keywords" content="działania, matematyczne, działania matematyczne, rozwiązanie, zadania, matematyka, kalkulator, przelicznik, narzędzie, proste, dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie"/>
     <meta name="author" content="Wojtek"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
